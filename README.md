@@ -1,4 +1,4 @@
 # hello-world
 primer repositorio
 
-# My name is Kitzia i am 20 years old and actually i am studyng ingeniery of computer systems at UDLAP
+# My name is Kitzia, i'm 20 years old and actually i'm studyng ingeniery of computer systems at UDLAP
